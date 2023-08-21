@@ -1,0 +1,36 @@
+{
+    "sect286_title": "What is SnipCSS?",
+    "sect286_subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, impedit.",
+    "sect286_img": "https://snipcss-images.s3.amazonaws.com/64793e948b264-1685667476-blob-kiwi-code.png",
+    "sect286_cards": [{
+            "card_img": "https://snipcss-images.s3.amazonaws.com/642f75590f4ab-1680831833-star.png",
+            "card_title": "Lorem ipsum dolor sit amet.",
+            "card_description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, libero."
+        },
+        {
+            "card_img": "https://snipcss-images.s3.amazonaws.com/642f75590f4ab-1680831833-star.png",
+            "card_title": "Lorem ipsum dolor sit amet.",
+            "card_description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, libero."
+        },
+        {
+            "card_img": "https://snipcss-images.s3.amazonaws.com/642f75590f4ab-1680831833-star.png",
+            "card_title": "Lorem ipsum dolor sit amet.",
+            "card_description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, libero."
+        },
+        {
+            "card_img": "https://snipcss-images.s3.amazonaws.com/642f75590f4ab-1680831833-star.png",
+            "card_title": "Lorem ipsum dolor sit amet.",
+            "card_description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, libero."
+        },
+        {
+            "card_img": "https://snipcss-images.s3.amazonaws.com/642f75590f4ab-1680831833-star.png",
+            "card_title": "Lorem ipsum dolor sit amet.",
+            "card_description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, libero."
+        },
+        {
+            "card_img": "https://snipcss-images.s3.amazonaws.com/642f75590f4ab-1680831833-star.png",
+            "card_title": "Lorem ipsum dolor sit amet.",
+            "card_description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, libero."
+        }
+    ]
+}
